@@ -1,0 +1,1 @@
+Please extract raw.zip to a directory called "raw" and run "compile.py" before attempting to flash the program.
